@@ -1,12 +1,12 @@
-# MY-COLLEGE-MANAGEMENT
+# MY-CAMPUS-ADMINISTRATION
 
 A college management app using java swing
 
-Technology:
+$Technology:
   Java Swing
   MySql
 
-Users:
+$Users:
 
   Admin:
     Manage the entire college academic functionalities
